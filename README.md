@@ -36,4 +36,5 @@ De ce fait dans une fenêtre, un message est affiché si le meilleur temps est b
 
 ![projet3](./travail-pratique/projet5_4.PNG)
 
-Equipe : Sara
+# Équipe
+Sara Salek
